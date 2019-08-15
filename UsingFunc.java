@@ -8,7 +8,7 @@ else
 return 1;
 }
 }
-class B{
+class UsingFunc{
 public static void main(String[]args){
 Scanner scan=new Scanner(System.in);
 int a=scan.nextInt();
